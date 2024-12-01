@@ -9,6 +9,7 @@ def print_hi(name):
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
     print("Hello World")
     print('This is a test change')
+    print('This is a a branch test')
 
 
 # Press the green button in the gutter to run the script.
